@@ -1,0 +1,1 @@
+/Users/konstantingasser/coffecode/rust-playground/porter/target/debug/porter: /Users/konstantingasser/coffecode/rust-playground/porter/src/flags.rs /Users/konstantingasser/coffecode/rust-playground/porter/src/main.rs
